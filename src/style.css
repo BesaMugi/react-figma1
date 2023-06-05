@@ -1,0 +1,11 @@
+body{
+    margin: 0 auto;
+    width: 800px;
+}
+
+.app {
+    margin: auto;
+    width: 800px;
+    height: 100vh;
+    /* font-family: 'Gilroy-Medium', sans-serif; */
+}
