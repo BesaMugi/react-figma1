@@ -1,9 +1,11 @@
 
 .footer {
   width: 777px;
-  height: 77px;
   font-size: 17px;
-  margin-top: 260px;
+
+  position: absolute;
+  bottom: 0;
+  /* width: 100%; */
 
   display: flex;
   align-items: center;
