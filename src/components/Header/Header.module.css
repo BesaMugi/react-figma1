@@ -30,12 +30,6 @@
 .menu a {
     text-decoration: none;
 }
-
-.head_text{
-    width: 50%;
-    display: flex;
-    justify-content: space-between;
-}
   
 .header {
     display: flex;
